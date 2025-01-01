@@ -1,0 +1,12 @@
+Git notes:
+> Clear clears screen
+> Git --version [Gets current version of git if installed on your system]
+> Git config --global user.email "YourEnailHere@somelink.something"
+> Git config --global user.name "Your_Name_Here"
+> git init - initializes the git folder and the associates files
+> git remote add origin https://github.com/user_name/Name_of_folder.git - This will point to the repository that you have created
+> git status - Checks all untracked files that the user is working on
+> git add . - Adds all/updates changes that the programmer ever made to the repository
+> git commit -m "Your update message here" <- You need to put a message in your commit in order to update your changes. You can put anything in here
+**Your commit messages are a reflection on the changes that you made in the code.**
+> git push - Enforce and reflect changes. It's normal to have this command fail the first time as this is the first time pushing your committed changes to the repository.
